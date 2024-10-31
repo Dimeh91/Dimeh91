@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="www.linkedin.com/in/mehdi-lahmer">Mehdi</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 
+👨‍🎓 Blockchain Engineering and Financial engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 
 
 
 
