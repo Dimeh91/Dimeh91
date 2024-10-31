@@ -9,7 +9,7 @@
 
 | Prize | Project | Date | Where |
 | --- | --- | --- | --- |
-| 🥇 1st @ KRYPTOSPHERE X 1inch X Near | [Anodex] | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
+| 🥇 1st @ KRYPTOSPHERE X 1inch X Near | Anodex | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
 
 <h2> 💻 Last tech used:</h2>
 
