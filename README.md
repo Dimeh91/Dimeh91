@@ -1,7 +1,7 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/ewan-hamon/">Ewan</a> 👋</h1>
+<h1>Hi, I'm <a href="www.linkedin.com/in/mehdi-lahmer">Mehdi</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 🏦 Deblock Ambassador
+👨‍🎓 Blockchain Engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 
 
 
 
@@ -9,11 +9,7 @@
 
 | Prize | Project | Date | Where |
 | --- | --- | --- | --- |
-| 🥇 Rootstock Best DeFi dApp @ ETHGlobal Brussels | [Moria](https://ethglobal.com/showcase/moria-td3dh) | July 2024 | [ETHGlobal Brussels](https://ethglobal.com/events/brussels) |
-| 🏆 Participant @ ETHGlobal London | [KlyckYC](https://ethglobal.com/showcase/klickyc-kp375) | March 2024 | [ETHGlobal London](https://ethglobal.com/) |
-| 💻 Prizes Winner @ ETH Denver | [Provehance](https://devfolio.co/projects/rrrr-0de5) | February 2024 | [ETH Denver](https://www.ethdenver.com/) |
-| 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/Ewuly/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
-| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Ewuly/lugtrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
+| 🥇 1st @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/Ewuly/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
 
 <h2> 💻 Last tech used:</h2>
 
@@ -30,6 +26,6 @@
 
 | App | Link |
 | --- | --- |
-| LinkedIn | [Ewan Hamon](https://www.linkedin.com/in/ewan-hamon/) |
-| X (Twitter) | [@Ewan_hamon](https://twitter.com/Ewan_hamon) |
-| Telegram | [@ewanham](https://t.me/ewanham) |
+| LinkedIn | [Mehdi Lahmer](www.linkedin.com/in/mehdi-lahmer) |
+| X (Twitter) | [@Dimeh_91_](https://x.com/Dimeh_91_) |
+| Telegram | [@dimeh91](https://t.me/dimeh91) |
